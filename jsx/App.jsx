@@ -1,7 +1,16 @@
 function App() {
   return (
     <>
-      <div>Hello World!</div>
+      <SubHeader />
+      <Header />
+      <MainBanner />
+      <Services />
+      <Team />
+      <Apply />
+      <Courses />
+      <OurFacts />
+      <Overview />
+      <Contact />
     </>
   );
 }
