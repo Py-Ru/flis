@@ -50,7 +50,7 @@ function Contact() {
                 </li>
                 <li>
                   <h6>Website URL</h6>
-                  <span>www.placeholder.edu</span>
+                  <span>www.flis.edu</span>
                 </li>
               </ul>
             </div>
